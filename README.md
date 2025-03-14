@@ -1,6 +1,3 @@
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/username/nama-repo.git
+git add Dockerfile
+git commit -m "Perbaikan Dockerfile - instalasi pip"
 git push origin main
